@@ -1,4 +1,4 @@
-# Diversión con banderas
+# Llorería con banderas solución
 
 Este es un ejemplo de una aplicación que utiliza la API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario. La aplicación está escrita en JavaScript y utiliza funciones asíncronas para manejar las llamadas a la API.
 
